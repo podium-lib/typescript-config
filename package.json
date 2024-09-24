@@ -1,0 +1,35 @@
+{
+  "name": "@podium/typescript-config",
+  "version": "1.0.0",
+  "description": "Shared typescript config for Podium modules",
+  "type": "module",
+  "files": [
+    "module.json",
+    "test.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/podium-lib/typescript-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/podium-lib/typescript-config/issues"
+  },
+  "homepage": "https://github.com/podium-lib/typescript-config#readme",
+  "scripts": {
+    "clean": "rimraf node_modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "typescript": ">= 5"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "rimraf": "6.0.1",
+    "semantic-release": "24.0.0"
+  }
+}

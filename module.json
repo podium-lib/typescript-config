@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": ["es2020", "DOM"],
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "target": "es2020",
+    "resolveJsonModule": true,
+    "checkJs": true,
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true
+  }
+}

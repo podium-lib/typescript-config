@@ -1,0 +1,9 @@
+{
+  "extends": "./module.json",
+  "compilerOptions": {
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "emitDeclarationOnly": false,
+    "noEmit": true
+  }
+}

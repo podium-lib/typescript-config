@@ -28,10 +28,9 @@
     "typescript": ">= 5"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "6.0.3",
-    "@semantic-release/git": "10.0.1",
+    "@podium/semantic-release-config": "2.0.0",
     "prettier": "3.3.3",
     "rimraf": "6.0.1",
-    "semantic-release": "24.0.0"
+    "semantic-release": "24.1.1"
   }
 }

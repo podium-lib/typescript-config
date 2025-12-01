@@ -31,6 +31,6 @@
     "@podium/semantic-release-config": "2.0.6",
     "prettier": "3.6.2",
     "rimraf": "6.1.2",
-    "semantic-release": "24.2.9"
+    "semantic-release": "25.0.2"
   }
 }

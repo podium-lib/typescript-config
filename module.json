@@ -1,9 +1,12 @@
 {
   "compilerOptions": {
-    "lib": ["es2020", "DOM"],
+    "lib": [
+      "es2022",
+      "DOM"
+    ],
     "module": "nodenext",
     "moduleResolution": "nodenext",
-    "target": "es2020",
+    "target": "es2022",
     "resolveJsonModule": true,
     "checkJs": true,
     "allowJs": true,
